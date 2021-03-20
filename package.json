@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "discord-embed-maker": "^3.0.8",
     "discord.js": "^12.5.1",
-    "discord.js-commando": "^0.12.2"
+    "discord.js-commando": "^0.12.2",
+    "fs": "^0.0.1-security",
+    "winston": "^3.3.3"
   }
 }
